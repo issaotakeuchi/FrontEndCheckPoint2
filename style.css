@@ -228,7 +228,7 @@ select:hover {
     background-color: rgb(230, 228, 228);
   }
 
-input[type=radio] {
+/* input[type=radio] {
     width: 10px;
     height: 10px;
 }
@@ -237,7 +237,7 @@ input[type=radio]:checked {
     width: 15px;
     height: 15px;
     transition: 0.4s;
-} 
+}  */
 
 input[type=checkbox] {
     width: 20px;
