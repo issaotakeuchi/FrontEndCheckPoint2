@@ -102,8 +102,8 @@ footer{
 }
 
 .formContainer {
-    width: 90%;
-    height: 90%;
+    width: 80%;
+    height: 1000px;
     padding: 40px;
     background-color: #12496393;
     border: 20px;
@@ -268,5 +268,14 @@ button[type=reset]:hover {
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
+  }
+
+  .footerForm {
+    width: 80%;
+    background-color: #12496393;
+    font-family: 'Open Sans', sans-serif, bold;
+    color: linen;
+    border: 20px;
+    margin: 0 auto;
   }
   
